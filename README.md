@@ -81,7 +81,17 @@ To import the saved data table into sql server, follow this steps:
 * _right click on the database_
 * _select tasks and click import flat file_
 
-After importing the data into sql server, next is to combine all the tables into one and clean the tables properly. Here is the [link](https://github.com/Olaseni-Ajeboriogbon/Google-Data-Analysis-capstone-project/blob/main/cyclistic_Bike_share.sql ) to the sql codes used in combining and cleaning the data.
+After importing the data into sql server, next is to combine all the tables into one and clean the tables properly. 
+Here is the [link](https://github.com/Olaseni-Ajeboriogbon/Google-Data-Analysis-capstone-project/blob/main/cyclistic_Bike_share.sql) to the sql codes used in combining and cleaning the table. 
+
+To further process the data inorder to draw insights, the combined data in sql server was imported to powerbi using directquery method. To import data into powerbi using Directquery method follow this steps:
+* Lauch powerbi
+* click Get DAta on the ribbon -> Sql server
+* select import
+* insert sql server name and click ok
+* select the database and click on the combined data
+  
+  This imports the combined data into powerquerry of the powerbi
 
 
 
