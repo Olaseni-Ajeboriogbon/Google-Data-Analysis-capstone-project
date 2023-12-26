@@ -27,10 +27,14 @@ In this project, the following are the questions to be asked and answered in oth
 
 ## Preparing the Data
 
-The project relies on a historical Cyclistic bike dataset, accessible on the AWS file server at https://divvy-tripdata.s3.amazonaws.com/index.html. This data, provided by the City of Chicago and Cyclistic company, is reliable, original, and publicly available. Motivate International Inc. has made the data accessible under this license (https://divvybikes.com/data-license-agreement), confirming its credibility.
+The project relies on a historical Cyclistic bike dataset is accessible on the AWS file server using this [link](https://divvy-tripdata.s3.amazonaws.com/index.html). This data is provided by the City of Chicago and Cyclistic company, is reliable, original, and publicly available. Motivate International Inc. has made the data accessible under this [license](https://divvybikes.com/data-license-agreement), confirming its credibility.
 
 These publicly available sources from Cyclistic and the City of Chicago, including governmental agency data, are typically reliable. The project involves 63 datasets available on the site, stored as zip files covering years 2020 to 2023. To ensure current information, zip files will be downloaded from December 2022 to November 2023, organized into separate folders to avoid confusion between zip and extracted files. Twelve CSV files, each representing a month, have been extracted into a designated folder.
 
 It's essential to note that data privacy considerations prevent the use of personally identifiable information of riders. Rider personal information is exclusively kept private by Cyclistic, and data users cannot link pass purchases to credit card numbers or determine if casual riders reside in the Cyclistic service area or have bought multiple single passes.
 
 ## Processing the data
+
+Processing the data includes cleaning and transforming the data generally. In processing this data I made use of excel spreadsheet, SQL and powerBI.
+Firstly, I imported the data into excel by clicking Data on the ribbon and then clicking get data function, this will display a drop-down card of different methods of importing files, I will be clicking the text files tab cause the files we downloaded are in csv format. Each dataset was first imported into the excel power query engine, each table of dataset has 13 columns but different row numbers and we have 5677670 rows in total from all tables combined. 
+
