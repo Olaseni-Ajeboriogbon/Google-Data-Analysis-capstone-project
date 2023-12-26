@@ -86,12 +86,17 @@ Here is the [link](https://github.com/Olaseni-Ajeboriogbon/Google-Data-Analysis-
 
 To further process the data inorder to draw insights, the combined data in sql server was imported to powerbi using directquery method. To import data into powerbi using Directquery method follow this steps:
 * Lauch powerbi
-* click Get DAta on the ribbon -> Sql server
-* select import
-* insert sql server name and click ok
-* select the database and click on the combined data
-  
-  This imports the combined data into powerquerry of the powerbi
+* click GET DATA on the ribbon -> SQL SERVER
+* insert sql server name and click OK
+* select Import
+* select the database and click on the combined data, this imports the combined data into powerquerry of the powerbi.
+
+After importing to powerbi, i created new columns (Time of day, period of day, season of the year, months, monthname, dayname, day) using conditional statements to aid my analysis.
+Here is a [link](https://drive.google.com/file/d/1cD9EDTm0RyKjTJt5293lGUiELrJU41Fx/view?usp=sharing) to the processed data on powerbi.
+
+## DATA VISUALIZATION
+
+![visualisation image](https://github.com/Olaseni-Ajeboriogbon/Google-Data-Analysis-capstone-project/blob/main/dashboard1.png)
 
 
 
