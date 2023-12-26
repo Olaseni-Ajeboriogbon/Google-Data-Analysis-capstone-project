@@ -59,3 +59,31 @@ Each dataset would be imported into the excel power query engine, each table of 
 * end_lat - Longitude of End station
 * member_casual - represent user type
 
+### cleaning the Data
+
+Each table most be inspected for any form of data anomalies and inconsistencies e.g. datatypes, spellings, duplicate values, nulls and errors where necessary. Some tables contain errors and null values which have to be corrected and removed. columns like Started_station_id, Start_station_name, End_station_id,End_station_name contains errors and null values.
+To remove this error follow this steps.
+* _right click on each columns containing errors  -> select remove errors_.
+After removing all errors, 
+* _clicked on _Close and Apply_ to apply changes on data and load them to excel spreadsheet_.
+  
+Next step, is to change the datatypes of columns started_at and ended_at, reason for this is for further cleaning and combining the tables in sql and  since sql use a different datetype from the csv original datetype. The tables cant be combined on the spreadsheet because it is a large file and spreadsheet has limited number of rows it can take. 
+To achieve this follow this steps:
+* _click on Number pane on the ribbon -> custom_ 
+* _Edit datetime format and change to yyyy-mm-dd h:mm:ss_
+  
+Now use _SAVE AS_ to save each table in csv format into another folder, it is this saved tables that would be imported into the sql server.
+To import the saved data table into sql server, follow this steps:
+
+* _Launch the sql server_
+* _connect to the object browser_
+* _crease a database to house the table_
+* _right click on the database_
+* _select tasks and click import flat file_
+
+After importing the data into sql server, next is to combine all the tables into one and clean the tables properly. Here is the [link](https://github.com/Olaseni-Ajeboriogbon/Google-Data-Analysis-capstone-project/blob/main/cyclistic_Bike_share.sql ) to the sql codes used in combining and cleaning the data.
+
+
+
+
+
