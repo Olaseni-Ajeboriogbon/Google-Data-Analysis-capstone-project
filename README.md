@@ -96,7 +96,7 @@ Here is a [link](https://drive.google.com/file/d/1cD9EDTm0RyKjTJt5293lGUiELrJU41
 
 ## DATA VISUALIZATION
 
-![visualisation image](https://github.com/Olaseni-Ajeboriogbon/Google-Data-Analysis-capstone-project/blob/main/dashboard1.png)
+![visualisation image](https://github.com/Olaseni-Ajeboriogbon/Google-Data-Analysis-capstone-project/blob/main/dashboard.png)
 
 
 
