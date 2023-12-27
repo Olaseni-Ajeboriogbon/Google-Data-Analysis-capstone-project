@@ -102,8 +102,14 @@ page one                               |             page two                |pa
 :-------------------------------------:|:-----------------------------------:|:------------------------------------:|:------------------------------------:
 ![visualisation image](dashboard.png)  |![visualisation image](station.png)  |![visualisation image](page2.png)     |![visualisation image](map.png)
 
+## Diving into the visuals
 
+![visualisation image](dashbord.png)
 
+### Total Number of Trips in a year
+
+* 3.75M trips was taken in a year by both casual and member users
+* 
 
 
 
