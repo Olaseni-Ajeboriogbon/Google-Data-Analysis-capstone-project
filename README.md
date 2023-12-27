@@ -96,7 +96,13 @@ Here is a [link](https://drive.google.com/file/d/1cD9EDTm0RyKjTJt5293lGUiELrJU41
 
 ## DATA VISUALIZATION
 
-![visualisation image](https://github.com/Olaseni-Ajeboriogbon/Google-Data-Analysis-capstone-project/blob/main/dashboard.png)
+The report comprises of four pages with different analysis.
+
+page one                               |             page two                |page three                            |page four
+:-------------------------------------:|:-----------------------------------:|:------------------------------------:|:------------------------------------:
+![visualisation image](dashboard.png)  |![visualisation image](station.png)  |![visualisation image](page2.png)     |![visualisation image](map.png)
+
+
 
 
 
