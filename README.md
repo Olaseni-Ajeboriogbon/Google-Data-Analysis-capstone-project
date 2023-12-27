@@ -123,7 +123,16 @@ page one                               |             page two                |pa
 * judging from the map the geographical location for both riders shows that its a coastal area, which signifies the location is a recreations/tourist center
 
 
-Conclusion and recommendation
+### Conclusion and recommendation
+Based on our findings here are some recommendations:
+
+1. cyclistics should implement during the week promotions for casual riders to encourage consistent use of bike-share services, increasing exposure and potential conversion to members.
+2. Introduce short-term membership options for one week, one month, three months and six months, pricing them to make the annual membership more cost-effective, promoting adoption among casual riders.
+3. Conduct surveys to understand the preferences of casual riders considering annual memberships and design campaigns highlighting health and environmental benefits.
+4. Offer group discounts for annual memberships to friends, students, and families.
+5. Adopt the use of social media for adverts and promotions, while also place banners at strategic places and prominent locations to attract casual riders, potentially converting them into members.
+6. Create a user friendly app, such that casual riders would be able to track available bikes  and also book ahead.
+7. Raise awareness among riders about the health benefits of cycling and also provide safety tips and reminders through the app on weekends to enhance user confidence and enjoyment, ultimately increasing the likelihood of membership consideration.
 
 
 
