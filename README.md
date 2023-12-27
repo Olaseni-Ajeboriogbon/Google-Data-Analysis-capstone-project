@@ -104,7 +104,7 @@ page one                               |             page two                |pa
 
 ## Diving into the visuals
 
-![visualisation image](dashbord.png)
+![visualisation image](dashboard.png)
 
 ### Total Number of Trips in a year
 
