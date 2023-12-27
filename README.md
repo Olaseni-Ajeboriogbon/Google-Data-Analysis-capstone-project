@@ -117,6 +117,14 @@ page one                               |             page two                |pa
 ## Report based on Ride Length
 ![ride_length visuals](page2.png)
 
+* Casual riders have a higher ride length from the month of april - october, where there is a record of high ride length from june to october
+* summer and sring records the highest ride length for casual riders compared to member riders
+* friday, saturday, sunday shows high ride length for casual workers with saturday been the highest compared  to member riders.
+* judging from the map the geographical location for both riders shows that its a coastal area, which signifies the location is a recreations/tourist center
+
+
+Conclusion and recommendation
+
 
 
 
