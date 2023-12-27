@@ -100,16 +100,20 @@ The report comprises of four pages with different analysis.
 
 page one                               |             page two                |page three                            |page four
 :-------------------------------------:|:-----------------------------------:|:------------------------------------:|:------------------------------------:
-![visualisation image](dashboard.png)  |![visualisation image](station.png)  |![visualisation image](page2.png)     |![visualisation image](map.png)
+![visualisation image](dashboard.png)  |![visualisation image](page3.png)  |![visualisation image](page2.png)     |![visualisation image](map.png)
 
 ## Diving into the visuals
 
 ![visualisation image](dashboard.png)
 
-### Total Number of Trips in a year
+### Report based on Number of rides
 
-* 3.75M trips was taken in a year by both casual and member users
-* 
+* 3.78M trips was taken in a year by both casual and member users
+* we have more member riders approximately 65%  compared to casual riders 35%
+* The average ride length of casual riders is higher than member riders, which shows that casual riders takes more trips than member riders
+* The number of rides taken by member riders monthly is significantly higher than that of the casual riders, this shows that member riders use bikes as regular means of transportation compared to casual riders.
+* The number of rides taken by member riders daily is also higher than casual riders, but there was an observed increase in rides on saturdays and sundays for casual riders, while there is a descrease from member riders on weekends.
+
 
 
 
