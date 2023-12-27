@@ -114,6 +114,9 @@ page one                               |             page two                |pa
 * The number of rides taken by member riders monthly is significantly higher than that of the casual riders, this shows that member riders use bikes as regular means of transportation compared to casual riders.
 * The number of rides taken by member riders daily is also higher than casual riders, but there was an observed increase in rides on saturdays and sundays for casual riders, while there is a descrease from member riders on weekends.
 
+## Report based on Ride Length
+![ride_length visuals](page2.png)
+
 
 
 
